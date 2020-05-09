@@ -1,0 +1,27 @@
+#cursor {
+	display: inline-block;
+	vertical-align: middle;
+	width: 3px;
+	height: 50px;
+	background-color: white;
+}
+
+#text {
+	display: inline-block;
+	vertical-align: middle;
+	color: white;
+	letter-spacing: 2px;
+}
+
+@keyframes blink {
+	from, to { 
+		background-color: transparent 
+	}
+	50% { 
+		background-color: white; 
+	}
+}
+
+#typing-container {
+	min-height: 86px;
+}
