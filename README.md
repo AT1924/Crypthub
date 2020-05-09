@@ -5,7 +5,10 @@ Crypthub is a downloadable cryptocurrency trading application that automatically
 Stack was implemented in Java/Javascript(ES6)/HTML5/CSS (Bootstrap).
 
 View source code at path:
-  Crypthub/src/main/java/edu/brown/cs/term/
+  Java Code: Crypthub/src/main/java/edu/brown/cs/term/
+  HTML (.ftl files for spark) Code: Crypthub/src/main/resources/spark
+  Javascript Code: Crypthub/src/main/resources/static/js
+  CSS Code: Crypthub/src/main/resources/static/css
 
 TO RUN:
 Simply clone this repo, cd into the home directory, and run ./run --gui
