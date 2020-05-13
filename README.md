@@ -6,8 +6,11 @@ Stack was implemented in Sqlite3/Java/Javascript(ES6)/HTML5/CSS (Bootstrap).
 
 View source code at path:
   Java Code: Crypthub/src/main/java/edu/brown/cs/term/
+  
   HTML (.ftl files for spark) Code: Crypthub/src/main/resources/spark
+  
   Javascript Code: Crypthub/src/main/resources/static/js
+  
   CSS Code: Crypthub/src/main/resources/static/css
 
 TO RUN:
